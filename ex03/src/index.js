@@ -23,7 +23,8 @@ function myArrayFunction(myPets){
 
 
 }
+console.log(myArrayFunction(myPetsArray));
+//myArrayFunction(myPetsArray);
 
-myArrayFunction(myPetsArray);
 // End of creating a function
 module.exports = myArrayFunction;
