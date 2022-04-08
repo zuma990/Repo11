@@ -32,10 +32,7 @@ function multiplyArrayFunction(myArray){
         result += sum2;
       product = product * sum;
        
-            
-
-      
-    } //console.log(product);
+    } 
     
     arr.push(product);
     arr.push(result);
